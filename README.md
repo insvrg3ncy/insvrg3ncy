@@ -1,1 +1,1 @@
-![# motivation](IMG_1266.png)
+![# motivation](IMG_1286.png)
