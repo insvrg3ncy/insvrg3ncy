@@ -26,4 +26,3 @@
 <br>
 
 ![# motivation](IMG_1286.png)
-![# dobryak](rp_dobryak.jpeg)
