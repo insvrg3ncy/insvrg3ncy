@@ -25,4 +25,4 @@
 
 <br>
 
-![# motivation](IMG_1286.png)
+![# perma](perma.png)
