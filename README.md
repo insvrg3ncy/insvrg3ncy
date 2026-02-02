@@ -20,9 +20,8 @@
 
   <br>
   
-  <div><samp>Немного ржомбы:</samp>
 </div>
 
 <br>
 
-![# perma](perma.png)
+![# perma](image.png)
