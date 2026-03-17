@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img alt="langs" src="https://img.shields.io/badge/ru%20%F0%9F%87%B7%F0%9F%87%BA%20en%20%F0%9F%87%BA%F0%9F%87%B8-201c1c?style=flat&label=langs&labelColor=%23454343"><br><br>
+  <img alt="langs" src="https://img.shields.io/badge/ru%20%F0%9F%87%B7%F0%9F%87%BA%20en%20%F0%9F%87%BA%0F%87%B8-201c1c?style=flat&label=langs&labelColor=%23454343"><br><br>
   <div>
     <sup><img alt="petuhayton" src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
       <sup>shitcoder,</sup>
@@ -15,10 +15,15 @@
     <img alt="firefox" src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white">
     <img alt="nvim" src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff">
     <img alt="ghostty" src="https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term">
-    <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"
+    <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
   </div>
-
+  
   <br>
+
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=insvrg3ncy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insvrg3ncy&layout=compact&langs_count=7&theme=radical"/>
+  </div>
   
 </div>
 
