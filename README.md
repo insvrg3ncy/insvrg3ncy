@@ -1,5 +1,4 @@
 <div align="center"> 
-  <img alt="langs" src="https://img.shields.io/badge/ru%20%F0%9F%87%B7%F0%9F%87%BA%20en%20%F0%9F%87%BA%0F%87%B8-201c1c?style=flat&label=langs&labelColor=%23454343"><br><br>
   <div>
     <sup><img alt="petuhayton" src ="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
       <sup>shitcoder,</sup>
