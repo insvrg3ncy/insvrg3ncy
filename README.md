@@ -21,16 +21,10 @@
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=insvrg3ncy&show_icons=true&theme=transparent&hide_border=true&title_color=aaa&text_color=888&icon_color=888&count_private=true"/>
+<img height="150" src="<img height="150" src="https://github-readme-stats.vercel.app/api?username=insvrg3ncy&show_icons=true&theme=transparent&hide_border=true&title_color=aaa&text_color=888&icon_color=888&count_private=true&cache_seconds=1800"/>username=insvrg3ncy&show_icons=true&theme=transparent&hide_border=true&title_color=aaa&text_color=888&icon_color=888&count_private=true"/>
 &nbsp;
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insvrg3ncy&layout=compact&theme=transparent&hide_border=true&title_color=aaa&text_color=888&langs_count=5"/>
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/insvrg3ncy/insvrg3ncy/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/insvrg3ncy/insvrg3ncy/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/insvrg3ncy/insvrg3ncy/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
