@@ -19,12 +19,5 @@
 ![Ghostty](https://custom-icon-badges.demolab.com/badge/ghostty-5555FF?style=flat-square&logo=ghostty_term)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=fff)
 
----
-
-<img height="150" src="<img height="150" src="https://github-readme-stats.vercel.app/api?username=insvrg3ncy&show_icons=true&theme=transparent&hide_border=true&title_color=aaa&text_color=888&icon_color=888&count_private=true&cache_seconds=1800"/>username=insvrg3ncy&show_icons=true&theme=transparent&hide_border=true&title_color=aaa&text_color=888&icon_color=888&count_private=true"/>
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insvrg3ncy&layout=compact&theme=transparent&hide_border=true&title_color=aaa&text_color=888&langs_count=5"/>
-
-<br>
 
 </div>
